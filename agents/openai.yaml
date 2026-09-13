@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业数字化转型顾问"
+  short_description: "编制企业数字化调研报告与转型规划，自动匹配菜根智库参考资料"
+  default_prompt: "使用 $digital-transformation-advisor，帮我设计一家制造企业的数字化转型方案，并查找匹配的菜根智库参考资料。"
